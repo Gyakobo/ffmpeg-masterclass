@@ -1,5 +1,12 @@
 # FFmpeg Masterclass - Complete Learning Guide
 
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+Author: [Andrew Gyakobo](https://github.com/Gyakobo)
+
+## Introduction
+
 This is a comprehensive Python program designed to teach you FFmpeg through practical examples, covering both CLI usage and the Python ffmpeg-python library.
 
 ## Installation
@@ -355,7 +362,7 @@ ffprobe input.mp4       # Detailed media information
 
 ## License
 
-This educational material is provided as-is for learning purposes. FFmpeg itself is licensed under LGPL/GPL.
+MIT
 
 ## Contributing
 
