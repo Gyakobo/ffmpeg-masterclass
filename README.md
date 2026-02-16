@@ -8,6 +8,7 @@ Author: [Andrew Gyakobo](https://github.com/Gyakobo)
 ## Introduction
 
 This is a comprehensive Python program designed to teach you FFmpeg through practical examples, covering both CLI usage and the Python ffmpeg-python library.
+Also do visit this [medium page](https://medium.com/@andygyakobo/mastering-ffmpeg-the-complete-guide-to-video-processing-in-python-ca9d76dec413) for more information
 
 ## Installation
 
